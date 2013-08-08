@@ -1,0 +1,662 @@
+﻿<html>
+<head title="Veranstaltungen"><title>Veranstaltungen</title>
+    <meta name="description" content="Facebook helps you connect and share with the people in your life." />
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <meta name="referrer" content="default" id="meta_referrer" />
+    <noscript><meta http-equiv="X-Frame-Options" content="deny" /></noscript>
+    <script data-signature="1"></script>
+    <link id="wZvCG" type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y7/r/pRD2wAHlRxW.css" />
+    <link id="Evdw2" type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y8/r/qz3Jyi1d1q9.css" />
+    <link id="X5q+s" type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yG/r/HajVj3-AhBw.css" />
+    <link id="DYVKX" type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yL/r/gy92Ch1Bh76.css" />
+    <link id="sftv9" type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yl/r/oFUgUyhfI9A.css" />
+    <link id="E+tbh" type="text/css" rel="stylesheet" href="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yP/r/qbxGzD5-6gg.css" />
+    <script data-signature="1">(/^#!(?:\/?[\w\.-])+\/?(?:\?|$)/).test(location.hash) && location.replace(location.hash.substr(2)); window.FB_GKS = { "mobile_chrono_selector": 1, "mobile_js_show_debug": 0, "mobile_js_log_error": 0, "m_js_log_history": 0, "m_js_trace": 0, "m_js_inline_cross_origin": 0, "m_js_script_tag_signature": 0, "m_js_html_snapshot": 0, "js_nocatch": 0, "moulder_feed": 1, "moulder_feed_hide_toggle": 0, "m_onephase_home": 1, "local_storage_cache": 0, "mtouch_composer_no_autoresize": 1, "m_debug_x_ray": 0 };</script>
+    <script id="u_0_v" crossorigin="anonymous" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/y2/r/vfaKxAhDWCY.js"></script>
+    <script id="u_0_w">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           var ratio = null; if (navigator.userAgent.indexOf('Firefox') !== -1 || (!window.devicePixelRatio && navigator.userAgent.indexOf('Windows Phone') !== -1)) { ratio = screen.width / document.documentElement.offsetWidth; ratio = ratio >= 2 ? 2 : ratio >= 1.5 ? 1.5 : 1; } document.cookie = 'm_pixel_ratio=' + (ratio || window.devicePixelRatio || 1); if (document.cookie && window.devicePixelRatio > 1) document.location.reload();</script>
+</head>
+<body class="touch x1 acw">
+    <script id="u_0_r">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           (function (a) { a.__updateOrientation = function () { var b = (!!a.orientation && a.orientation !== 180), c = document.body; if (c) c.className = c.className.replace(/(^|\s)(landscape|portrait)(\s|$)/g, ' ') + ' ' + (b ? 'landscape' : 'portrait'); return b; }; })(window);</script>
+    <div id="viewport">
+        <h1 style="display: block; height: 0; overflow: hidden; position: absolute; width: 0">Facebook</h1>
+        <div class="mSideArea hideSideArea" data-sigil="side-area">
+            <h2 class="mSideAreaHeader" style="display: block; height: 0; overflow: hidden; position: absolute; width: 0">HauptmenÃ¼</h2>
+            <div class="mSideMenuPage" id="u_0_3" data-sigil="side-menu-main-page side-menu-content">
+                <div class="scrollerContent">
+                    <div class="mSideHeader abb" data-sigil="marea">
+                        <table>
+                            <tr>
+                                <td class="mSideHeaderContent">
+                                    <div class="mSideSearch" data-sigil="search-activator"><i class="mSpyglass img sp_1a330q sx_ab8a9f"></i>
+                                        <div class="mSearchProxy fcg input">Suche</div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div id="u_0_5">
+                        <div class="apl" data-sigil="marea">
+                            <div style="text-align: center;">
+                                <div class="_2so _2sq _2st img _50cg" id="u_0_6" data-animtype="1" data-sigil="m-loading-indicator-animate"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="mSideMenuPage mSideMenuPageSecondary" id="u_0_4" data-sigil="side-menu-side-page side-menu-content">
+                <div class="scrollerContent">
+                    <div class="mSideHeader abb" data-sigil="marea">
+                        <table>
+                            <tr>
+                                <td class="mSideHeaderButton"><a class="touchable pageHeaderChromelessButton" role="button" data-sigil="side-menu-persist side-menu-main-link blocking-touchable"><i class="touched_hide img sp_86ajr3 sx_34179e"></i><i class="touched_show img sp_86ajr3 sx_34179e"></i></a></td>
+                                <td class="mSideHeaderContent">
+                                    <div class="mSideHeaderTitle mfsl fcw" data-sigil="side-menu-side-title"></div>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div id="side-menu-side-content" class="mSideMenu" data-sigil="side-menu-side-content"></div>
+                    <div class="fcw" style="display: none" data-sigil="side-menu-side-error">Keine Verbindung zum Internet. Bitte versuche es erneut.</div>
+                    <div class="mSideAreaLoader" data-sigil="side-menu-side-loader">
+                        <div class="mCenteredLoader fcg">
+                            <div class="_2so _2sq _2ss img _50cg" id="u_0_7" data-animtype="1" data-sigil="m-loading-indicator-animate"></div>
+                            Wird geladen ...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="page">
+            <div class="_52we _4g33 _52z5" id="u_0_0" data-sigil="MTopBlueBarHeader">
+                <div class="_4g34 _52z7" id="m-future-header-left"><a class="touchable _7fk" href="#" role="button" data-sigil="blocking-touchable menu-link"><span style="display: block; height: 0; overflow: hidden; position: absolute; width: 0">HauptmenÃ¼</span></a></div>
+                <div class="_52z6" id="m-future-header-center">
+                    <div class="jewelSet">
+                        <div id="mJewelNav">
+                            <div class="_59te jewel noCount" id="requests_jewel" data-sigil="popover requests"><a class="_59tf touchable" data-store="&#123;&quot;behavior&quot;:&quot;custom&quot;&#125;" href="/friends/requests.php?refid=25" data-sigil="icon blocking-touchable"><span style="display: block; height: 0; overflow: hidden; position: absolute; width: 0">Freundschaftsanfragen</span><span class="_59tg mfss fcw" data-sigil="count">0</span><i class="_59th img sp_86ajr3 sx_83e9e8" data-sigil="nub"></i></a><div class="flyout popover_hidden" role="complementary" id="reqs_flyout" data-sigil="flyout flyout">
+                                <h2 class="header" tabindex="0" data-sigil="header"><span class="mfsl fcw">Freundschaftsanfragen<a class="button touchable" href="/findfriends/browser/?fb_ref=jwl&amp;refid=25" role="button" aria-label="Freunde finden" data-sigil="blocking-touchable page-transition"><i class="touched_hide img sp_1a330q sx_1b4813"></i><i class="touched_show img sp_1a330q sx_f64eb4"></i></a></span></h2>
+                                <h2 class="header" tabindex="0" style="display: none" data-sigil="replace-header"><span class="mfsl fcw">Listen auswÃ¤hlen
+                                    <button type="submit" value="Zur&#xfc;ck" class="insetButton btn btnI mfss touchable" role="button" data-sigil="blocking-touchable fl-done popover-interactive blocking-touchable">ZurÃ¼ck</button></span></h2>
+                                <ol class="_7k7 inner" id=":m:jewel-set:requests-flyout-body" data-sigil="contents">
+                                    <div>
+                                        <ol class="_7k7" id="friend_requests_section_jewel" data-sigil="sticky-flyout">
+                                            <div>
+                                                <div class="jewel nullstate acw" data-sigil="marea"><span class="mfsl fcg">Keine neuen Anfragen</span></div>
+                                            </div>
+                                        </ol>
+                                    </div>
+                                </ol>
+                            </div>
+                            </div>
+                            <div class="_59te jewel noCount" id="messages_jewel" data-sigil="popover messages"><a class="_59tf touchable" data-store="&#123;&quot;behavior&quot;:&quot;custom&quot;&#125;" href="/messages/?refid=25" data-sigil="icon blocking-touchable"><span style="display: block; height: 0; overflow: hidden; position: absolute; width: 0">Nachrichten</span><span class="_59tg mfss fcw" data-sigil="count">0</span><i class="_59th img sp_86ajr3 sx_83e9e8" data-sigil="nub"></i></a><div class="flyout popover_hidden" role="complementary" id="u_0_8" data-sigil="flyout">
+                                <h2 class="header" tabindex="0"><span class="mfsl fcw">Nachrichten<a class="button touchable" href="/messages/compose/?refid=25" role="button" aria-label="Nachricht verfassen" data-sigil="blocking-touchable page-transition"><i class="touched_hide img sp_1a330q sx_24e528"></i><i class="touched_show img sp_1a330q sx_cef001"></i></a></span></h2>
+                                <ol class="_7k7 inner" data-sigil="contents">
+                                    <li class="null acw" data-sigil="marea"><span class="mfsl fcg">Keine neuen Nachrichten</span></li>
+                                </ol>
+                            </div>
+                            </div>
+                            <div class="_59te jewel noCount" id="notifications_jewel" data-sigil="popover notifications"><a class="_59tf touchable" data-store="&#123;&quot;behavior&quot;:&quot;custom&quot;&#125;" href="/notifications.php?refid=25" data-sigil="icon blocking-touchable"><span style="display: block; height: 0; overflow: hidden; position: absolute; width: 0">Benachrichtigungen</span><span class="_59tg mfss fcw" data-sigil="count">0</span><i class="_59th img sp_86ajr3 sx_83e9e8" data-sigil="nub"></i></a><div class="flyout popover_hidden" role="complementary" id="u_0_9" data-sigil="flyout">
+                                <h2 class="header" tabindex="0"><span class="mfsl fcw">Benachrichtigungen</span></h2>
+                                <ol class="_7k7 inner" data-sigil="contents">
+                                    <li class="null acw" data-sigil="marea"><span class="mfsl fcg">Keine neuen Benachrichtigungen</span></li>
+                                </ol>
+                            </div>
+                            </div>
+                            <div class="flyout-holder"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="_4g34 _52z8" id="m-future-header-right">
+                    <div class="touchable" data-store="&#123;&quot;create_table_id&quot;:&quot;u_0_2&quot;&#125;" data-sigil="touchable MEventsCreateButton"><i class="touched_hide img sp_1a330q sx_24e528"></i><i class="touched_show img sp_1a330q sx_cef001"></i></div>
+                </div>
+            </div>
+            <div id="root" tabindex="0" role="main" class="acw" data-sigil="context-layer-root">
+                <div>
+                    <div>
+                        <div class="chromeBar aclb abb" data-sigil="marea">
+                            <table class="btnBar btnBarLinked">
+                                <tr>
+                                    <td><a class="active btn btnI bglb mfss touchable" href="/events/?refid=25" target="_self" role="button" data-sigil="blocking-touchable page-transition">Bevorstehende Veranstaltungen</a></td>
+                                    <td><a class="btn btnI bglb mfss touchable" href="/events/?archive&amp;refid=25" target="_self" role="button" data-sigil="blocking-touchable page-transition">Vergangene Veranstaltungen</a></td>
+                                    <td><a class="btn btnI bglb mfss touchable" href="/birthdays/?refid=25" target="_self" role="button" data-sigil="blocking-touchable page-transition">Geburtstage</a></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div id="m_events_list">
+                        <h3 class="al _51z4">
+                            <div class="mfsl">
+                                <div class="collapse nowrap">Heute</div>
+                            </div>
+                        </h3>
+                        <div class="item tall acw" id="569294399781239" data-sigil="marea"><a class="touchable primary" href="/events/569294399781239?aref=2&amp;refid=25" data-sigil="touchable page-transition">
+                            <div class="primarywrap">
+                                <div class="image"><i class="img profpic" style="background: #d8dce6 url(&quot;https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c25.0.81.81/s60x60/252231_1002029915278_1941483569_s.jpg&quot;) no-repeat center; background-size: 100% 100%; -webkit-background-size: 100% 100%; width: 58px; height: 58px;" aria-label="Tumba Dur" role="img"></i></div>
+                                <div class="content">
+                                    <div class="title mfsl fcb"><strong>Cgfsdge</strong></div>
+                                    <div class="subtitle fcg">16. Juni</div>
+                                    <div class="oneLine preview mfss fcg">Du bist der Veranstalter.</div>
+                                </div>
+                            </div>
+                        </a></div>
+                        <div class="item tall acw abt" id="Div1" data-sigil="marea"><a class="touchable primary" href="/events/468511163243240?aref=2&amp;refid=25" data-sigil="touchable page-transition">
+                            <div class="primarywrap">
+                                <div class="image"><i class="img profpic" style="background: #d8dce6 url(&quot;https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c25.0.81.81/s60x60/252231_1002029915278_1941483569_s.jpg&quot;) no-repeat center; background-size: 100% 100%; -webkit-background-size: 100% 100%; width: 58px; height: 58px;" aria-label="Tumba Dur" role="img"></i></div>
+                                <div class="content">
+                                    <div class="title mfsl fcb"><strong>Rutrzt</strong></div>
+                                    <div class="subtitle fcg">16. Juni</div>
+                                    <div class="oneLine preview mfss fcg">Du bist der Veranstalter.</div>
+                                </div>
+                            </div>
+                        </a></div>
+                        <div class="item tall acw abt" id="Div2" data-sigil="marea"><a class="touchable primary" href="/events/624307207587740?aref=2&amp;refid=25" data-sigil="touchable page-transition">
+                            <div class="primarywrap">
+                                <div class="image"><i class="img profpic" style="background: #d8dce6 url(&quot;https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c25.0.81.81/s60x60/252231_1002029915278_1941483569_s.jpg&quot;) no-repeat center; background-size: 100% 100%; -webkit-background-size: 100% 100%; width: 58px; height: 58px;" aria-label="Tumba Dur" role="img"></i></div>
+                                <div class="content">
+                                    <div class="title mfsl fcb"><strong>Kdujhfsiudfh</strong></div>
+                                    <div class="subtitle fcg">16. Juni</div>
+                                    <div class="oneLine preview mfss fcg">Du bist der Veranstalter.</div>
+                                </div>
+                            </div>
+                        </a></div>
+                        <div class="item tall acw abt" id="Div3" data-sigil="marea"><a class="touchable primary" href="/events/499042286836055?aref=2&amp;refid=25" data-sigil="touchable page-transition">
+                            <div class="primarywrap">
+                                <div class="image"><i class="img profpic" style="background: #d8dce6 url(&quot;https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c25.0.81.81/s60x60/252231_1002029915278_1941483569_s.jpg&quot;) no-repeat center; background-size: 100% 100%; -webkit-background-size: 100% 100%; width: 58px; height: 58px;" aria-label="Tumba Dur" role="img"></i></div>
+                                <div class="content">
+                                    <div class="title mfsl fcb"><strong>Tuetzertz</strong></div>
+                                    <div class="subtitle fcg">16. Juni</div>
+                                    <div class="oneLine preview mfss fcg">Du bist der Veranstalter.</div>
+                                </div>
+                            </div>
+                        </a></div>
+                        <div class="item tall acw abt" id="Div4" data-sigil="marea"><a class="touchable primary" href="/events/540750775986038?aref=2&amp;refid=25" data-sigil="touchable page-transition">
+                            <div class="primarywrap">
+                                <div class="image"><i class="img profpic" style="background: #d8dce6 url(&quot;https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c25.0.81.81/s60x60/252231_1002029915278_1941483569_s.jpg&quot;) no-repeat center; background-size: 100% 100%; -webkit-background-size: 100% 100%; width: 58px; height: 58px;" aria-label="Tumba Dur" role="img"></i></div>
+                                <div class="content">
+                                    <div class="title mfsl fcb"><strong>Fjtzjt</strong></div>
+                                    <div class="subtitle fcg">16. Juni</div>
+                                    <div class="oneLine preview mfss fcg">Du bist der Veranstalter.</div>
+                                </div>
+                            </div>
+                        </a></div>
+                        <h3 class="al _51z4">
+                            <div class="mfsl">
+                                <div class="collapse nowrap">Juli</div>
+                            </div>
+                        </h3>
+                        <div class="item tall acw" id="Div5" data-sigil="marea"><a class="touchable primary" href="/events/494349657301465?aref=2&amp;refid=25" data-sigil="touchable page-transition">
+                            <div class="primarywrap">
+                                <div class="image"><i class="img profpic" style="background: #d8dce6 url(&quot;https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c25.0.81.81/s60x60/252231_1002029915278_1941483569_s.jpg&quot;) no-repeat center; background-size: 100% 100%; -webkit-background-size: 100% 100%; width: 58px; height: 58px;" aria-label="Tumba Dur" role="img"></i></div>
+                                <div class="content">
+                                    <div class="title mfsl fcb"><strong>Gsdfwef</strong></div>
+                                    <div class="subtitle fcg">25. Juli</div>
+                                    <div class="oneLine preview mfss fcg">Du bist der Veranstalter.</div>
+                                </div>
+                            </div>
+                        </a></div>
+                        <h3 class="al _51z4">
+                            <div class="mfsl">
+                                <div class="collapse nowrap">November</div>
+                            </div>
+                        </h3>
+                        <div class="item tall acw" id="Div6" data-sigil="marea"><a class="touchable primary" href="/events/364563126998958?aref=2&amp;refid=25" data-sigil="touchable page-transition">
+                            <div class="primarywrap">
+                                <div class="image"><i class="img profpic" style="background: #d8dce6 url(&quot;https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c25.0.81.81/s60x60/252231_1002029915278_1941483569_s.jpg&quot;) no-repeat center; background-size: 100% 100%; -webkit-background-size: 100% 100%; width: 58px; height: 58px;" aria-label="Tumba Dur" role="img"></i></div>
+                                <div class="content">
+                                    <div class="title mfsl fcb"><strong>jhertghrft</strong></div>
+                                    <div class="subtitle fcg">Samstag, 16. November um 15:15</div>
+                                    <div class="oneLine preview mfss fcg">Du bist der Veranstalter.</div>
+                                </div>
+                            </div>
+                        </a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="viewportArea ajaxLoader acw" id="mAjaxLoader" style="display: none" data-sigil="marea">
+                <div class="mCenteredLoader mCenteredLoaderVertical fcg">
+                    <div class="_2so _2sq _2ss img _50cg" id="u_0_1" data-animtype="1" data-sigil="m-loading-indicator-animate"></div>
+                    Wird geladen ...</div>
+            </div>
+            <div class="viewportArea aclb" id="mErrorView" style="display: none" data-sigil="marea">
+                <div class="container">
+                    <div class="image"></div>
+                    <div class="message" data-sigil="error-message"></div>
+                    <a class="link" data-sigil="MPageError:retry">Erneut versuchen</a></div>
+            </div>
+        </div>
+    </div>
+    <div id="static_templates">
+        <div class="mDialog" id="modalDialog" style="display: none">
+            <div class="mFuturePageHeader firstStep titled chromeBar acb abb" id="mDialogHeader" data-sigil="marea">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <button type="submit" value="Abbrechen" class="cancelButton btn btnD bgb mfss touchable" role="button" data-sigil="dialog-cancel-button blocking-touchable">Abbrechen</button>
+                            <button type="submit" value="Zur&#xfc;ck" class="backButton btn btnI bgb mfss touchable iconOnly" role="button" aria-label="Zur&#xfc;ck" data-sigil="dialog-back-button blocking-touchable"><i class="img sp_86ajr3 sx_34179e" style="margin-top: 4px;"></i></button>
+                        </td>
+                        <td id="Td1" class="center">
+                            <div class="mFuturePageHeaderTitle mfsl fcw" id="m-future-page-header-title" data-sigil="dialog-title">Wird geladen ...</div>
+                        </td>
+                        <td class="right" id="modalDialogHeaderButtons"></td>
+                    </tr>
+                </table>
+            </div>
+            <div class="modalDialogView" id="modalDialogView"></div>
+            <div class="mCenteredLoader mCenteredLoaderVertical fcg" id="dialogSpinner">
+                <div class="_2so _2sq _2ss img _50cg" id="u_0_d" data-animtype="1" data-sigil="m-loading-indicator-animate"></div>
+                Wird geladen ...</div>
+        </div>
+        <form method="post" action="/a/events/create/?refid=25" id="u_0_2" onsubmit="return window.MAjaxify&amp;&amp;MAjaxify.form(event,this,&quot;async_elem&quot;,&quot;nocache&quot;,null,false);" style="display: none" data-store="&#123;&quot;friends_tagger_id&quot;:&quot;u_0_e&quot;,&quot;main_view_id&quot;:&quot;u_0_f&quot;,&quot;privacy_selector_id&quot;:&quot;u_0_g&quot;,&quot;places_tagger_id&quot;:&quot;u_0_h&quot;,&quot;root_id&quot;:&quot;u_0_2&quot;,&quot;time_selector_id&quot;:&quot;u_0_i&quot;,&quot;group_mode&quot;:false,&quot;page_mode&quot;:false&#125;">
+            <input type="hidden" name="fb_dtsg" value="AQDKvVlI" autocomplete="off" /><input type="hidden" name="charset_test" value="â‚¬,Â´,â‚¬,Â´,æ°´,Ð”,Ð„" /><div id="u_0_f">
+                <div class="mFuturePageHeader titled chromeBar acb abb" id="m-future-header" data-sigil="marea">
+                    <table>
+                        <tr>
+                            <td class="left">
+                                <button type="button" value="Abbrechen" class="btn btnI bgb mfss touchable" role="button" data-sigil="cancel_events_create_table blocking-touchable">Abbrechen</button></td>
+                            <td id="Td2" class="center">
+                                <div class="mFuturePageHeaderTitle mfsl fcw" id="Div7">Veranstaltung erstellen</div>
+                            </td>
+                            <td class="right" id="Td3">
+                                <button type="button" value="Erstellen" class="btn btnI bgb mfss touchable" role="button" data-sigil="submit_events_create_table blocking-touchable">Erstellen</button></td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="grouped acg">
+                    <div class="first area textInputArea acw" data-sigil="event_name marea">
+                        <input class="input tiapm" name="event_name" placeholder="Name der Veranstaltung" type="text" /></div>
+                    <div class="last area textInputArea acw abt" data-sigil="event_details marea">
+                        <textarea class="input tiapm" rows="3" name="event_details" placeholder="Details"></textarea></div>
+                </div>
+                <div class="grouped acg"><a class="touchableArea first area hasArrow touchable acw apl" data-store="&#123;&quot;nativeClick&quot;:true&#125;" href="#" data-sigil="events_create_table_select_location touchable marea">
+                    <div class="lr">
+                        <div class="r"><span class="fcg" data-sigil="location_display_text">Ort hinzufÃ¼gen</span><input type="hidden" autocomplete="off" name="location_value" value="" data-sigil="location_value" /><input type="hidden" autocomplete="off" name="pre_location_value" value="" /></div>
+                        <div><strong>Ort</strong></div>
+                        <div class="clear"></div>
+                    </div>
+                    <i class="touched_hide arrow img sp_86ajr3 sx_baf979"></i><i class="arrow touched_show img sp_86ajr3 sx_af68e3"></i></a><a class="touchableArea area hasArrow touchable acw apl abt" data-store="&#123;&quot;nativeClick&quot;:true&#125;" href="#" data-sigil="events_create_table_select_time touchable marea">
+                        <div class="lr">
+                            <div class="r"><span class="fcg" data-sigil="datetime_display_text">Heute</span><input type="hidden" autocomplete="off" name="datetime_timestamp" value="1371390764" data-sigil="datetime_timestamp" /><input type="hidden" autocomplete="off" name="datetime_granularity" value="2" data-sigil="datetime_granularity" /><input type="hidden" autocomplete="off" name="pre_datetime_timestamp" value="1371390764" /><input type="hidden" autocomplete="off" name="pre_datetime_granularity" value="2" /></div>
+                            <div><strong>Datum &amp; Uhrzeit</strong></div>
+                            <div class="clear"></div>
+                        </div>
+                        <i class="touched_hide arrow img sp_86ajr3 sx_baf979"></i><i class="arrow touched_show img sp_86ajr3 sx_af68e3"></i></a><a class="touchableArea last area hasArrow touchable acw apl abt" data-store="&#123;&quot;nativeClick&quot;:true&#125;" href="#" data-sigil="events_create_table_select_invitees touchable marea">
+                            <div class="lr">
+                                <div class="r"><span class="fcg" data-sigil="invitees_display_text">Freunde hinzufÃ¼gen</span><input type="hidden" autocomplete="off" name="invitees_value" value="" data-sigil="invitees_value" /><input type="hidden" autocomplete="off" name="pre_invitees_value" value="" /></div>
+                                <div><strong>Eingeladene Personen</strong></div>
+                                <div class="clear"></div>
+                            </div>
+                            <i class="touched_hide arrow img sp_86ajr3 sx_baf979"></i><i class="arrow touched_show img sp_86ajr3 sx_af68e3"></i></a></div>
+                <div class="grouped acg"><a class="touchableArea first last area hasArrow touchable acw apl" data-store="&#123;&quot;nativeClick&quot;:true&#125;" href="#" data-sigil="events_create_table_select_privacy touchable marea">
+                    <div class="lr">
+                        <div class="r"><span class="fcg" data-sigil="privacy_display_text">Freunde</span></div>
+                        <div><strong>PrivatsphÃ¤re</strong></div>
+                        <div class="clear"></div>
+                    </div>
+                    <i class="touched_hide arrow img sp_86ajr3 sx_baf979"></i><i class="arrow touched_show img sp_86ajr3 sx_af68e3"></i></a></div>
+            </div>
+            <div id="u_0_i" style="display: none" data-store="&#123;&quot;granularity&quot;:2&#125;">
+                <div class="mFuturePageHeader titled chromeBar acb abb" id="Div8" data-sigil="marea">
+                    <table>
+                        <tr>
+                            <td class="left">
+                                <button type="button" value="Abbrechen" class="btn btnI bgb mfss touchable" role="button" data-sigil="cancel_time_selector blocking-touchable">Abbrechen</button></td>
+                            <td id="Td4" class="center">
+                                <div class="mFuturePageHeaderTitle mfsl fcw" id="Div9">Zeit auswÃ¤hlen</div>
+                            </td>
+                            <td class="right" id="Td5">
+                                <button type="button" value="Fertig" class="btn btnI bgb mfss touchable" role="button" data-sigil="submit_time_selector blocking-touchable">Fertig</button></td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="mEventProfileSection useBorder">
+                    <div>
+                        <div class="acw apl" data-sigil="marea">
+                            <table>
+                                <tr valign="top">
+                                    <td class="label" align="right" valign="top">
+                                        <div class="mfsm fcg">Datum</div>
+                                    </td>
+                                    <td valign="top">
+                                        <div class="mfsm"><span>
+                                            <select name="time_selector_date_day" data-sigil="time_selector_date_day">
+                                                <option value="1">1</option>
+                                                <option value="2">2</option>
+                                                <option value="3">3</option>
+                                                <option value="4">4</option>
+                                                <option value="5">5</option>
+                                                <option value="6">6</option>
+                                                <option value="7">7</option>
+                                                <option value="8">8</option>
+                                                <option value="9">9</option>
+                                                <option value="10">10</option>
+                                                <option value="11">11</option>
+                                                <option value="12">12</option>
+                                                <option value="13">13</option>
+                                                <option value="14">14</option>
+                                                <option value="15">15</option>
+                                                <option value="16" selected="1">16</option>
+                                                <option value="17">17</option>
+                                                <option value="18">18</option>
+                                                <option value="19">19</option>
+                                                <option value="20">20</option>
+                                                <option value="21">21</option>
+                                                <option value="22">22</option>
+                                                <option value="23">23</option>
+                                                <option value="24">24</option>
+                                                <option value="25">25</option>
+                                                <option value="26">26</option>
+                                                <option value="27">27</option>
+                                                <option value="28">28</option>
+                                                <option value="29">29</option>
+                                                <option value="30">30</option>
+                                                <option value="31">31</option>
+                                            </select><select name="time_selector_date_month" data-sigil="time_selector_date_month"><option value="1">Januar</option>
+                                                <option value="2">Februar</option>
+                                                <option value="3">MÃ¤rz</option>
+                                                <option value="4">April</option>
+                                                <option value="5">Mai</option>
+                                                <option value="6" selected="1">Juni</option>
+                                                <option value="7">Juli</option>
+                                                <option value="8">August</option>
+                                                <option value="9">September</option>
+                                                <option value="10">Oktober</option>
+                                                <option value="11">November</option>
+                                                <option value="12">Dezember</option>
+                                            </select><select name="time_selector_date_year" data-sigil="time_selector_date_year"><option value="1913">1913</option>
+                                                <option value="1914">1914</option>
+                                                <option value="1915">1915</option>
+                                                <option value="1916">1916</option>
+                                                <option value="1917">1917</option>
+                                                <option value="1918">1918</option>
+                                                <option value="1919">1919</option>
+                                                <option value="1920">1920</option>
+                                                <option value="1921">1921</option>
+                                                <option value="1922">1922</option>
+                                                <option value="1923">1923</option>
+                                                <option value="1924">1924</option>
+                                                <option value="1925">1925</option>
+                                                <option value="1926">1926</option>
+                                                <option value="1927">1927</option>
+                                                <option value="1928">1928</option>
+                                                <option value="1929">1929</option>
+                                                <option value="1930">1930</option>
+                                                <option value="1931">1931</option>
+                                                <option value="1932">1932</option>
+                                                <option value="1933">1933</option>
+                                                <option value="1934">1934</option>
+                                                <option value="1935">1935</option>
+                                                <option value="1936">1936</option>
+                                                <option value="1937">1937</option>
+                                                <option value="1938">1938</option>
+                                                <option value="1939">1939</option>
+                                                <option value="1940">1940</option>
+                                                <option value="1941">1941</option>
+                                                <option value="1942">1942</option>
+                                                <option value="1943">1943</option>
+                                                <option value="1944">1944</option>
+                                                <option value="1945">1945</option>
+                                                <option value="1946">1946</option>
+                                                <option value="1947">1947</option>
+                                                <option value="1948">1948</option>
+                                                <option value="1949">1949</option>
+                                                <option value="1950">1950</option>
+                                                <option value="1951">1951</option>
+                                                <option value="1952">1952</option>
+                                                <option value="1953">1953</option>
+                                                <option value="1954">1954</option>
+                                                <option value="1955">1955</option>
+                                                <option value="1956">1956</option>
+                                                <option value="1957">1957</option>
+                                                <option value="1958">1958</option>
+                                                <option value="1959">1959</option>
+                                                <option value="1960">1960</option>
+                                                <option value="1961">1961</option>
+                                                <option value="1962">1962</option>
+                                                <option value="1963">1963</option>
+                                                <option value="1964">1964</option>
+                                                <option value="1965">1965</option>
+                                                <option value="1966">1966</option>
+                                                <option value="1967">1967</option>
+                                                <option value="1968">1968</option>
+                                                <option value="1969">1969</option>
+                                                <option value="1970">1970</option>
+                                                <option value="1971">1971</option>
+                                                <option value="1972">1972</option>
+                                                <option value="1973">1973</option>
+                                                <option value="1974">1974</option>
+                                                <option value="1975">1975</option>
+                                                <option value="1976">1976</option>
+                                                <option value="1977">1977</option>
+                                                <option value="1978">1978</option>
+                                                <option value="1979">1979</option>
+                                                <option value="1980">1980</option>
+                                                <option value="1981">1981</option>
+                                                <option value="1982">1982</option>
+                                                <option value="1983">1983</option>
+                                                <option value="1984">1984</option>
+                                                <option value="1985">1985</option>
+                                                <option value="1986">1986</option>
+                                                <option value="1987">1987</option>
+                                                <option value="1988">1988</option>
+                                                <option value="1989">1989</option>
+                                                <option value="1990">1990</option>
+                                                <option value="1991">1991</option>
+                                                <option value="1992">1992</option>
+                                                <option value="1993">1993</option>
+                                                <option value="1994">1994</option>
+                                                <option value="1995">1995</option>
+                                                <option value="1996">1996</option>
+                                                <option value="1997">1997</option>
+                                                <option value="1998">1998</option>
+                                                <option value="1999">1999</option>
+                                                <option value="2000">2000</option>
+                                                <option value="2001">2001</option>
+                                                <option value="2002">2002</option>
+                                                <option value="2003">2003</option>
+                                                <option value="2004">2004</option>
+                                                <option value="2005">2005</option>
+                                                <option value="2006">2006</option>
+                                                <option value="2007">2007</option>
+                                                <option value="2008">2008</option>
+                                                <option value="2009">2009</option>
+                                                <option value="2010">2010</option>
+                                                <option value="2011">2011</option>
+                                                <option value="2012">2012</option>
+                                                <option value="2013" selected="1">2013</option>
+                                                <option value="2014">2014</option>
+                                                <option value="2015">2015</option>
+                                                <option value="2016">2016</option>
+                                                <option value="2017">2017</option>
+                                                <option value="2018">2018</option>
+                                            </select></span></div>
+                                    </td>
+                                </tr>
+                                <tr valign="top">
+                                    <td class="label" align="right" valign="top">
+                                        <div class="mfsm fcg">Zeit</div>
+                                    </td>
+                                    <td valign="top">
+                                        <div class="mfsm"><span class="fcl" id="time_selector_add_time_button" data-sigil="time_selector_add_time_button touchable">Um welche Uhrzeit?</span><div class="lr" id="time_selector_specific_time_picker" style="display: none" data-sigil="time_selector_specific_time_picker"><a class="r touchable mCloseBtn" href="#" data-sigil="time_selector_remove_time_button blocking-touchable"><span>&nbsp;Ã—&nbsp;</span></a><span><select name="time_selector_time_hours" data-sigil="time_selector_time_hours"><option value="0">0</option>
+                                            <option value="1">1</option>
+                                            <option value="2">2</option>
+                                            <option value="3">3</option>
+                                            <option value="4">4</option>
+                                            <option value="5">5</option>
+                                            <option value="6">6</option>
+                                            <option value="7">7</option>
+                                            <option value="8">8</option>
+                                            <option value="9">9</option>
+                                            <option value="10">10</option>
+                                            <option value="11">11</option>
+                                            <option value="12">12</option>
+                                            <option value="13">13</option>
+                                            <option value="14">14</option>
+                                            <option value="15" selected="1">15</option>
+                                            <option value="16">16</option>
+                                            <option value="17">17</option>
+                                            <option value="18">18</option>
+                                            <option value="19">19</option>
+                                            <option value="20">20</option>
+                                            <option value="21">21</option>
+                                            <option value="22">22</option>
+                                            <option value="23">23</option>
+                                        </select><select name="time_selector_time_minutes" data-sigil="time_selector_time_minutes"><option value="0">00</option>
+                                            <option value="5">05</option>
+                                            <option value="10">10</option>
+                                            <option value="15">15</option>
+                                            <option value="20">20</option>
+                                            <option value="25">25</option>
+                                            <option value="30">30</option>
+                                            <option value="35">35</option>
+                                            <option value="40">40</option>
+                                            <option value="45">45</option>
+                                            <option value="50" selected="1">50</option>
+                                            <option value="55">55</option>
+                                        </select><input type="hidden" autocomplete="off" value="1" data-sigil="is_military_time" /></span><div class="clear"></div>
+                                        </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr valign="top" style="display: none" data-sigil="time_selector_timezone">
+                                    <td class="label" align="right" valign="top">
+                                        <div class="mfsm fcg">Zeitzone</div>
+                                    </td>
+                                    <td valign="top">
+                                        <div class="mfsm">UTC+02</div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <input type="hidden" autocomplete="off" name="timezone_identifier" value="Europe/Berlin" data-sigil="timezone_identifier" /></div>
+            <div id="u_0_g" style="display: none">
+                <div class="mFuturePageHeader titled chromeBar acb abb" id="Div10" data-sigil="marea">
+                    <table>
+                        <tr>
+                            <td class="left">
+                                <button type="button" value="Abbrechen" class="btn btnI bgb mfss touchable" role="button" data-sigil="cancel_events_privacy_selector blocking-touchable">Abbrechen</button></td>
+                            <td id="Td6" class="center">
+                                <div class="mFuturePageHeaderTitle mfsl fcw" id="Div11">PrivatsphÃ¤re auswÃ¤hlen</div>
+                            </td>
+                            <td class="right" id="Td7">
+                                <button type="button" value="Fertig" class="btn btnI bgb mfss touchable" role="button" data-sigil="submit_events_privacy_selector blocking-touchable">Fertig</button></td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="grouped acg">
+                    <label class="touchableOptionArea first area touchable acw" data-sigil="touchable marea">
+                        <div class="ib cc"><i class="l img sp_861jvp sx_c7692b"></i>
+                            <div class="c">Ã–ffentlich</div>
+                        </div>
+                        <input type="radio" name="privacy_value" value="everyone" checked="1" /></label><label class="touchableOptionArea area touchable acw abt" data-sigil="touchable marea"><div class="ib cc"><i class="l img sp_861jvp sx_9f24f0"></i>
+                            <div class="c">Freunde von GÃ¤sten</div>
+                        </div>
+                            <input type="radio" name="privacy_value" value="friends" /></label><label class="touchableOptionArea last area touchable acw abt" data-sigil="touchable marea"><div class="ib cc"><i class="l img sp_861jvp sx_3a3549"></i>
+                                <div class="c">Nur fÃ¼r eingeladene GÃ¤ste</div>
+                            </div>
+                                <input type="radio" name="privacy_value" value="onlyme" /></label></div>
+            </div>
+            <div id="u_0_e" style="display: none">
+                <div class="mFuturePageHeader titled chromeBar acb abb" id="Div12" data-sigil="marea">
+                    <table>
+                        <tr>
+                            <td class="left">
+                                <button type="button" value="Abbrechen" class="btn btnI bgb mfss touchable" role="button" data-sigil="cancel_with_tagger blocking-touchable">Abbrechen</button></td>
+                            <td id="Td8" class="center">
+                                <div class="mFuturePageHeaderTitle mfsl fcw" id="Div13">Freunde einladen</div>
+                            </td>
+                            <td class="right" id="Td9">
+                                <button type="button" value="Fertig" class="btn btnI bgb mfss touchable" role="button" data-sigil="submit_with_tagger blocking-touchable">Fertig</button></td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="acw" data-sigil="marea">
+                    <div class="mTokenizer mTypeahead" id="u_0_p" data-sigil="transfer-focus-container tokenizer">
+                        <div class="input-container" data-sigil="tokenizer-input-container">
+                            <input class="input" name="users_with" id="u_0_q" type="text" data-sigil="tokenizer-input" /></div>
+                        <div class="tokenizerOverlay" data-sigil="focus-provider"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="u_0_h" style="display: none" data-sigil="place-tagger">
+                <div class="mFuturePageHeader titled chromeBar acb abb" id="Div14" data-sigil="place-header marea">
+                    <table>
+                        <tr>
+                            <td class="left">
+                                <button type="button" value="Abbrechen" class="btn btnI bgb mfss touchable" role="button" data-sigil="cancel_at_tagger blocking-touchable">Abbrechen</button></td>
+                            <td id="Td10" class="center">
+                                <div class="mFuturePageHeaderTitle mfsl fcw" id="Div15">Ort hinzufÃ¼gen</div>
+                            </td>
+                            <td class="right" id="Td11"></td>
+                        </tr>
+                    </table>
+                </div>
+                <div id="places_search" data-sigil="places-search">
+                    <div class="acg apm" id="u_0_j" data-sigil="marea">
+                        <table cellspacing="0" cellpadding="0" class="comboInput" id="u_0_k">
+                            <tr>
+                                <td class="inputCell">
+                                    <input autocapitalize="off" class="input quicksearch" name="q" autocorrect="off" autocomplete="off" placeholder="Suche ..." size="15" type="text" data-sigil="quicksearch-input" /></td>
+                                <td class="btnCell">
+                                    <button type="submit" value="Suche" class="btn btnD mfss touchable" role="button" data-sigil="quicksearch-button blocking-touchable">Suche</button></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div id="events_places_search_results">
+                        <div class="acw apm" data-sigil="throbber marea">
+                            <div class="quicksearchThrobber">
+                                <div style="text-align: center;"><i class="img img" style="background-image: url(&quot;https://fbstatic-a.akamaihd.net/rsrc.php/v2/yb/r/GsNJNwuI-UM.gif&quot;); background-repeat: no-repeat; background-size: 100% 100%; -webkit-background-size: 100% 100%; width: 16px; height: 11px;"></i><span class="fcg">Ortung erfolgt ...</span></div>
+                            </div>
+                        </div>
+                        <div class="acy apm abt abb" style="display: none" data-sigil="error-message marea"><span class="mfsm">Bei der Bestimmung deines Aufenthaltsortes ist ein Fehler aufgetreten.</span><br />
+                            Bitte stelle sicher, dass die Ortungsfunktion in deinem Browser aktiviert ist, und dass facebook.com die Erlaubnis hat, diese zu benutzen. Du kannst auch sonst nach einem Ort suchen, aber die Suche wird nicht so exakt sein.</div>
+                    </div>
+                    <div id="place_update"></div>
+                    <div id="prompt-view-container" style="display: none" data-sigil="prompt-view-container"></div>
+                </div>
+                <div id="u_0_l" style="display: none" data-sigil="add-place">
+                    <h1 class="al">
+                        <div class="mfsl">
+                            <div class="collapse nowrap">Ort hinzufÃ¼gen</div>
+                        </div>
+                    </h1>
+                    <div class="acw apm" data-sigil="marea">Erstelle einen neuen Standort fÃ¼r deinen Besuch. Standorte sind Ã¶ffentlich und jeder kann sie besuchen. Falls persÃ¶nliche Daten von jemandem fÃ¼r diesen Standort nÃ¶tig sind, frage bitte vorher.<div class="mfss fcg">Name:</div>
+                        <input class="input" name="npn" type="text" data-sigil="new-place-name" /><br />
+                        <button type="submit" value="Hinzuf&#xfc;gen" class="btn btnD mfss touchable" role="button" data-sigil="add_place_submit blocking-touchable">HinzufÃ¼gen</button></div>
+                </div>
+            </div>
+        </form>
+        <div class="mSearchOverlay" style="display: none;" id="u_0_a" data-sigil="search-overlay">
+            <div class="mSearchArea acg apm abb" data-sigil="marea">
+                <table cellspacing="0" cellpadding="0" class="comboInput mSearchTypeahead">
+                    <tr>
+                        <td class="inputCell">
+                            <div class="mTypeahead" id="u_0_m" data-sigil="typeahead-hardpoint">
+                                <div class="mSideSearch" id="u_0_b"><i class="mSpyglass img sp_1a330q sx_ab8a9f"></i>
+                                    <div class="input inputWrapper" id="u_0_n">
+                                        <input class="mSearchInput input" autocorrect="off" autocomplete="off" placeholder="Suche" type="text" data-sigil="permanentInput clearableInput" /><div class="mClearButtonWrapper" style="display: none" data-sigil="touchable clearButton">
+                                            <div class="mClearButton">Ã— </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="loadingIndicator" data-sigil="searchLoadingIndicator">
+                                    <div class="mLoadingBar">
+                                        <div class="_2so _2sq _2st img _50cg" id="u_0_o" data-animtype="1" data-sigil="m-loading-indicator-animate"></div>
+                                        Loading...</div>
+                                </div>
+                            </div>
+                        </td>
+                        <td class="btnCell">
+                            <button type="submit" value="Abbrechen" class="btn btnI bgdb mfss touchable" data-store="&#123;&quot;nativeClick&quot;:true&#125;" id="u_0_c" role="button" data-sigil="touchable">Abbrechen</button></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" data-signature="1">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           /*<![CDATA[*/function si_cj(m) { setTimeout(function () { new Image().src = "https:\/\/error.facebook.com\/common\/scribe_endpoint.php?c=si_clickjacking&t=5693" + "&m=" + m; }, 5000); } if (top != self && !false) { try { if (parent != top) { throw 1; } var si_cj_d = ["apps.facebook.com", "\/pages\/", "apps.beta.facebook.com"]; var href = top.location.href.toLowerCase(); for (var i = 0; i < si_cj_d.length; i++) { if (href.indexOf(si_cj_d[i]) >= 0) { throw 1; } } si_cj("3 "); } catch (e) { si_cj("1 \t"); window.document.write("\u003Cstyle>body * {display:none !important;}\u003C\/style>\u003Ca href=\"#\" onclick=\"top.location.href=window.location.href\" style=\"display:block !important;padding:10px\">Gehe zu facebook.com\u003C\/a>");/*GsG0EAla*/ } }/*]]>*/</script>
+    <script id="u_0_s" crossorigin="anonymous" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yW/r/51ddXkI_Nm_.js"></script>
+    <script id="u_0_t" crossorigin="anonymous" src="https://fbstatic-a.akamaihd.net/rsrc.php/v2/yO/r/viuD3A_rjK6.js"></script>
+    <script id="u_0_u">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           (new (require("ServerJS"))()).handle({ "define": [["MRequestConfig", [], { "dtsg": { "token": "AQDKvVlI", "expire": 1371477164 } }, 51], ["MSession", [], { "useAngora": false, "localeText": "Deutsch", "userID": "100003677502717", "locale": "de_DE", "logoutURL": "\/logout.php?h=AffW2cXWYk4hBLp4&t=1371390764", "push_phase": "V3", "isLoggedIn": true }, 52], ["MBanzaiConfig", [], { "MAX_WAIT": 30000, "MAX_SIZE": 10000, "COMPRESSION_THRESHOLD": 800, "gks": { "mchannel_jumpstart": true } }, 32], ["FWRules", [], {}, 120], ["MJSEnvironment", [], { "IS_CHROME": true, "PIXEL_RATIO": 1, "IS_APPLE_WEBKIT_IOS": false, "IS_ANDROID": false, "OS_VERSION": 6.2 }, 46], ["MChannelClientConfig", [], { "config": { "IFRAME_LOAD_TIMEOUT": 30000, "P_TIMEOUT": 30000, "STREAMING_TIMEOUT": 70000, "PROBE_HEARTBEATS_INTERVAL_LOW": 1000, "PROBE_HEARTBEATS_INTERVAL_HIGH": 3000 }, "info": { "user_channel": "p_100003677502717", "seq": -1, "retry_interval": 0, "max_conn": 6, "chat_enabled": 1 } }, 33], ["MarauderConfig", [], { "gk_enabled": false, "gk_detailed_enabled": 0, "app_version": 847175 }, 31]] }); require("MCoreInit").init({ "clearMCache": false, "coreResources": ["https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yE\/r\/FyzfZH7zpyJ.js", "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yu\/r\/He2QwwNs_bs.js", "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yK\/r\/1OcSKExYRR9.js", "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yR\/r\/vSRHjhtY5Kq.js", "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yh\/r\/UtenF3mml8y.js", "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yy\/r\/zARXpn_0daL.js", "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yO\/r\/GnRoWHMS_Vd.js"], "hideLocationBar": true, "onafterload": "", "onload": "", "serverJSData": { "require": [["TimezoneAutoset", "main", [], [{ "forceUpdate": false, "time": 1371390764, "offset": 120, "uri": "\/a\/timezone.php" }]], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["ErrorUtils"], ["MExceptionHandler"], ["ScriptPath", "set", [], ["MEventsDashboardController", "dc19c04c"]], ["MLogging", "main", [], [{ "refid": 25 }]], ["MLink", "setupListener", [], []], ["IosWebapp", "main", [], []], ["MModalDialogInit", "main", [], []], ["MVerifyCache", "main", [], [{ "viewer": 100003677502717 }]], ["MScrollPositionSaver", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MPageError", "main", [], [{ "mobile_js_show_debug": 0, "mobile_js_log_error": 0 }]], ["MTouchable", "main", [], []], ["MEventsCreateButton", "main", [], []], ["MLoadingIndicator", "init", [], ["u_0_1", false]], ["MSideArea", "main", [], [{ "activateSigil": "menu-link", "mainPage": "u_0_3", "secondaryPage": "u_0_4" }]], ["MInitJewels", "main", [], [{ "mJewelMarauderLogger": null, "expandMessageJewel": false }]], ["MVideoChat", "main", [], [{ "uri": "\/a\/chat\/video\/" }]], ["MTouchable", "main", [], []], ["MDynaTemplate", "registerTemplates", [], [{ "MfktNw": ["MJewelRealTimeNotificationTemplate", "\u003Cdiv class=\"aclb abt\" id=\"[[\u0025UNESCAPED]][[id]]\" data-sigil=\"marea\">\u003Cdiv>\u003Ca class=\"touchable-notification touchable\" href=\"[[\u0025UNESCAPED]][[href]]\" target=\"[[\u0025UNESCAPED]][[target]]\" onclick=\"[[\u0025UNESCAPED]][[onclick]]\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"ib\">\u003Cspan class=\"l\">[[profile_pic]]\u003C\/span>\u003Cdiv class=\"c\">\u003Cdiv>[[presence_icon]][[body]]\u003C\/div>[[call_to_action]][[app_icon]]&nbsp;\u003Cspan class=\"mfss fcg\">[[time]]\u003C\/span>\u003C\/div>\u003Cdiv class=\"ext\">[[thumbnail_pic]]\u003C\/div>\u003C\/div>\u003C\/a>[[inline_feedback]]\u003C\/div>\u003C\/div>"], "eAohDu": ["MJewelNewMessageTemplate", "\u003Cdiv class=\"item messages-flyout-item aclb abb\" id=\"[[\u0025UNESCAPED]][[id]]\" data-sigil=\"marea\">\u003Ca class=\"touchable primary\" href=\"[[\u0025UNESCAPED]][[href]]\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">[[thread_image]]\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"lr\">\u003Cdiv class=\"time r nowrap mfss fcl\">[[time]]\u003C\/div>\u003Cdiv class=\"title thread-title mfsl fcb\">\u003Cstrong>[[thread_name]]\u003C\/strong>\u003C\/div>\u003Cdiv class=\"clear\">\u003C\/div>\u003C\/div>\u003Cdiv class=\"oneLine preview mfss fcg\">[[snippet]]\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/div>"] }]], ["MBlockingTouchable", "main", [], []], ["MLoadingIndicator", "init", [], ["u_0_6", false]], ["MLoadingIndicator", "init", [], ["u_0_7", false]], ["MInitJewelCounts", "main", [], [{ "viewer_id": 100003677502717, "request_count": 0, "message_count": 0, "unread_message_count": 0, "should_show_unread": 0, "notification_count": 0, "unread_notification_ids": {}, "is_zero_rated_site": false, "notif_unseen_vs_unread": 0 }]], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MPageHeaderAccessibility"], ["MSearchOverlay", "main", [], [{ "overlay": "u_0_a", "textinput": "u_0_b", "cancelbtn": "u_0_c" }]], ["MAddFriend", "main", [], []], ["MOpenable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MLoadingIndicator", "init", [], ["u_0_d", false]], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MPlacesCurrentLocation", "main", [], [{ "location": null, "mode": "pl" }]], ["MQuickSearchPlaces", "init", [], [{ "uri": "\/places\/search.php?targetID=events_places_search_results", "nodeID": "u_0_k", "resultsBoxID": "events_places_search_results", "containerID": "u_0_j", "args": { "q": null, "__ajax__": "" }, "shouldScroll": true, "searchText": "Suche", "cancelText": "Abbrechen", "throbber": "\u003Cdiv class=\"acw apm abt\" data-sigil=\"marea\">\u003Cdiv class=\"quicksearchThrobber\">\u003Cdiv style=\"text-align:center;\">\u003Ci class=\"img img\" style=\"background-image: url(&quot;https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yb\/r\/GsNJNwuI-UM.gif&quot;);background-repeat:no-repeat;background-size:100\u0025 100\u0025;-webkit-background-size:100\u0025 100\u0025;width:16px;height:11px;\">\u003C\/i>\u003Cspan class=\"fcg\">Wird gesucht ...\u003C\/span>\u003C\/div>\u003C\/div>\u003C\/div>" }]], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MPlacesInit", "main", [], []], ["MPlacesAddView", "init", [], ["u_0_l"]], ["MBlockingTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MDynaTemplate", "registerTemplates", [], [{ "AuZaus": ["MessageButtonTemplate", "\u003Ca class=\"touchable right\" href=\"[[\u0025UNESCAPED]][[message_uri]]\" data-sigil=\"touchable m-send-message page-transition\">\u003Cdiv class=\"touchoverflow\">\u003C\/div>\u003Ci class=\"touched_hide messageIcon img sp_1a330q sx_7d4947\">\u003C\/i>\u003Ci class=\"messageIcon touched_show img sp_1a330q sx_7d4947\">\u003C\/i>\u003C\/a>"] }]], ["InitMSearchTypeahead", "main", [], [{ "id": "u_0_m", "textinput": "u_0_b", "sources": { "online": { "src": "\/ds\/search.php?filter\u00255B0\u00255D=user&filter\u00255B1\u00255D=page&filter\u00255B2\u00255D=group&filter\u00255B3\u00255D=event&filter\u00255B4\u00255D=app&filter\u00255B5\u00255D=websuggestion&max_results=30&context=mobile_search_m_site&viewer=AfP8rqG22dt8eGoN", "max_results": 30, "useLocation": true }, "bootstrapped": { "source_key": "search", "src": "\/ds\/first_degree.php?viewer=AfP8rqG22dt8eGoN&token=v7&filter\u00255B0\u00255D=user&filter\u00255B1\u00255D=group&filter\u00255B2\u00255D=event&filter\u00255B3\u00255D=app&filter\u00255B4\u00255D=page&options\u00255B0\u00255D=friends_only&options\u00255B1\u00255D=adminned_pages_only&include_viewer=1&cacheBust=1371386698-7" } }, "permanent": false, "showSecondaryAction": true, "mSideNavMarauderLogger": null }]], ["MAddFriend", "main", [], []], ["MTextInputClearable", "main", [], [{ "wrapper": "u_0_n" }]], ["MTouchable", "main", [], []], ["MLoadingIndicator", "init", [], ["u_0_o", false]], ["InitMFriendsTagger", "main", [], [{ "id": "u_0_e" }]], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MTouchTransferFocus", "main", [], []], ["MBlockingTouchable", "main", [], []], ["InitMTokenizer", "main", [], [{ "id": "u_0_p", "textinput": "u_0_q", "initialtokens": {}, "label": [], "placeholder": "Gib einen Namen ein ...", "freeform": null, "needs_template_data": false, "exclusions": false, "excludeids": [100003677502717], "source_key": "friends", "src": "\/ds\/first_degree.php?viewer=AfP8rqG22dt8eGoN&token=v7&filter\u00255B0\u00255D=user&options\u00255B0\u00255D=friends_only&tagging_context=1", "suggestions": [], "limit": 20 }]], ["MTokenizerBehavior", "addListener", [], [{ "clearvalueonblur": true, "shouldscroll": false }]], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []], ["MBlockingTouchable", "main", [], []]] }, "isWildeWeb": false });</script>
+    <script id="u_0_x"></script>
+    <script id="u_0_10">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           require("MRenderingScheduler").schedule({ "css": [], "js": ["https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yu\/r\/He2QwwNs_bs.js", "https:\/\/fbstatic-a.akamaihd.net\/rsrc.php\/v2\/yy\/r\/zARXpn_0daL.js"], "id": "u_0_5", "content": { "__html": "\u003Cdiv class=\"mSideMenu\" id=\"u_0_y\" data-sigil=\"partial-side-menu\">\u003Ca tabindex=\"-1\" href=\"\/bookmarks\/get.php?partial=1&amp;refid=25\" data-sigil=\"partial-side-menu-link page-transition\">\u003C\/a>\u003Cul class=\"_7k7\">\u003Cli class=\"item\" data-store=\"&#123;&quot;id&quot;:100003677502717,&quot;max_count&quot;:null&#125;\" data-sigil=\"side-menu-item marea\">\u003Ca class=\"touchable primary\" href=\"\/tumba.dur?refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"img icon img\" style=\"background-image: url(&quot;https:\/\/fbcdn-profile-a.akamaihd.net\/static-ak\/rsrc.php\/v2\/yo\/r\/UlIqmHJn-SK.gif&quot;);background-repeat:no-repeat;background-size:100\u0025 100\u0025;-webkit-background-size:100\u0025 100\u0025;width:34px;height:34px;\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title mfsl fcb\">\u003Cstrong>Tumba Dur\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003C\/ul>\u003Ch3 class=\"separator\">\u003Cspan class=\"mfsxs\">FAVORITEN \u003C\/span>\u003C\/h3>\u003Cul class=\"_7k7\">\u003Cli class=\"item\" data-store=\"&#123;&quot;id&quot;:4748854339,&quot;max_count&quot;:20&#125;\" data-sigil=\"side-menu-item news-feed-item marea\">\u003Ca class=\"touchable primary\" href=\"\/home.php?refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_c48bd7\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title mfsl fcb\">\u003Cstrong>Neuigkeiten\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003Cli class=\"item\" data-store=\"&#123;&quot;id&quot;:102784766491910,&quot;max_count&quot;:20&#125;\" data-sigil=\"side-menu-item marea\">\u003Ca class=\"touchable primary\" href=\"\/findfriends\/browser\/?ref=bookmark&amp;fb_ref=tn&amp;refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_cd0696\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title mfsl fcb\">\u003Cstrong>Freunde finden\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003Cli class=\"item\" data-store=\"&#123;&quot;id&quot;:217974574879787,&quot;max_count&quot;:99&#125;\" data-sigil=\"side-menu-item marea\">\u003Ca class=\"touchable primary\" href=\"\/messages\/?ref=bookmark&amp;refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_c47531\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title mfsl fcb\">\u003Cstrong>Nachrichten\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003Cli class=\"item\" data-store=\"&#123;&quot;href&quot;:&quot;\\\/places\\\/nearbyfriends.php?ref=bookmark&quot;&#125;\" data-sigil=\"side-menu-item gps-link marea\">\u003Ca class=\"touchable primary\" href=\"\/places\/nearbyfriends.php?ref=bookmark&amp;refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_2e9fd3\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title mfsl fcb\">\u003Cstrong>In der N\u00e4he\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003Cli class=\"item\" data-store=\"&#123;&quot;id&quot;:2344061033,&quot;max_count&quot;:20&#125;\" data-sigil=\"side-menu-item marea\">\u003Ca class=\"touchable primary\" href=\"\/events\/?ref=bookmark&amp;refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_8e9297\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title mfsl fcb\">\u003Cstrong>Veranstaltungen\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003Cli class=\"acw\" id=\"m_side_menu_pinned\" data-sigil=\"marea\">\u003C\/li>\u003C\/ul>\u003Ch3 class=\"separator\" id=\"last_separator_id\">\u003Cspan class=\"mfsxs\"> \u003C\/span>\u003C\/h3>\u003Cdiv class=\"apl\" id=\"partial-side-area\" data-sigil=\"marea\">\u003Cdiv style=\"text-align:center;\">\u003Cdiv class=\"_2so _2sq _2st img _50cg\" id=\"u_0_z\" data-animtype=\"1\" data-sigil=\"m-loading-indicator-animate\">\u003C\/div>\u003C\/div>\u003C\/div>\u003Cul class=\"_7k7\">\u003Cli class=\"item acdb\" data-sigil=\"side-menu-item marea\">\u003Ca class=\"touchable primary\" href=\"\/help\/?refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_dfa4d9\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title mfsl fcb\">\u003Cstrong>Hilfebereich\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003Cul class=\"_7k7\">\u003Cli class=\"item acdb\" data-sigil=\"side-menu-item marea\">\u003Ca class=\"touchable primary\" href=\"\/settings\/?refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_ec3bee\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title allowWrap tight mfsm fcb\">\u003Cstrong>Einstellungen und Privatsph\u00e4re\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003Cli class=\"item acdb\" data-sigil=\"side-menu-item marea\">\u003Ca class=\"touchable primary\" href=\"\/policies\/?refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_4d7abf\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title allowWrap tighter mfss fcb\">\u003Cstrong>Nutzungsbedingungen und Richtlinien\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003C\/ul>\u003Cli class=\"item acdb\" data-sigil=\"side-menu-item marea\">\u003Ca class=\"touchable primary\" href=\"\/bugnub\/?source=SideMenu&amp;refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_144125\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title mfsl fcb\">\u003Cstrong>Melde ein Problem\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003Cli class=\"item acdb\" data-sigil=\"logout side-menu-persist marea\">\u003Ca class=\"touchable primary\" href=\"\/logout.php?h=AffW2cXWYk4hBLp4&amp;t=1371390764&amp;refid=25\" data-sigil=\"touchable page-transition\">\u003Cdiv class=\"primarywrap\">\u003Cdiv class=\"image\">\u003Ci class=\"icon img sp_1a330q sx_8a6fdd\">\u003C\/i>\u003C\/div>\u003Cdiv class=\"content\">\u003Cdiv class=\"title mfsl fcb\">\u003Cstrong>Abmelden\u003C\/strong>\u003C\/div>\u003C\/div>\u003C\/div>\u003C\/a>\u003C\/li>\u003Cli class=\"acdb apl\" data-sigil=\"marea\">\u003Cdiv class=\"mfsm fcg\">\u003Ca class=\"sec\" href=\"\/language.php?refid=25\" data-sigil=\"page-transition\">Deutsch\u003C\/a>&nbsp;\u003Cspan role=\"separator\" aria-hidden=\"true\">\u00b7\u003C\/span>&nbsp;\u003Ca class=\"sec\" href=\"https:\/\/www.facebook.com\/?m2w&amp;refid=25\" target=\"_top\" data-sigil=\"side-menu-persist page-transition\">Desktop-Ansicht\u003C\/a>\u003C\/div>\u003Cdiv class=\"mfsm fcg\">\u003Cstrong> Facebook \u00a9 2013\u003C\/strong>\u003C\/div>\u003C\/li>\u003C\/ul>\u003C\/div>" }, "pageletConfig": { "lid": "5890078482462749039-60001", "name": "MSideMenu", "onload": "", "onafterload": "", "scheduledMarkupIndex": 0, "serverJSData": { "require": [["MSideMenu", "main", [], [{ "menu": "u_0_y" }]], ["MPartialSideMenu", "main", [], [{ "item": "u_0_y", "lastSeparator": "last_separator_id" }]], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MPlacesInit", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MLogoutClearCache", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []], ["MLoadingIndicator", "init", [], ["u_0_z", false]], ["MTouchable", "main", [], []], ["MTouchable", "main", [], []]] }, "templateContainer": "static_templates", "templates": { "__html": "" } } }, function () { });</script>
+</body>
+</html>
