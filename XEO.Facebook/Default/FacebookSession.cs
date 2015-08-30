@@ -256,10 +256,8 @@ namespace XEO.Facebook.Default
             var eventsDocument = GetFacebookMobilePageDocument(url);
 
             var eventIds = eventsDocument
-                .Descendants("div")
-                .Where(div => div.TryGetAttributeValue("id") == "m_events_list")
-                .Elements("div")
-                .Select(div => new { Id = div.TryGetAttributeValue("id"), Element = div })
+                .Descendants("article")
+                .Select(article => new { Id = article.TryGetAttributeValue("id"), Element = article })
                 .Where(div => div.Id != string.Empty)
                 .Select(div =>
                 {
